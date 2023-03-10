@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Showboy48
-- 👀 I’m interested in machine languagues
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning python as a computer language
+- 👀 I’m interested Web Development
+- 🌱 I’m currently HTML and CSS
+- 💞️ I’m looking to collaborate on more web development projects
 - 📫 How to reach me 08121895537(Whatsapp)
 
 <!---
