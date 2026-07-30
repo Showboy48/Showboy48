@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Showboy48
-- 👀 I’m interested Web Development
-- 🌱 I’m currently HTML and CSS
-- 💞️ I’m looking to collaborate on more web development projects
+- 👋 Hi, I’m Ifeanyi Opara
+- 👀 A Data Analyst
+- 🌱 I’m currently deploying my projects to github
+- 💞️ I’m looking to collaborate on more analytic projects
 - 📫 How to reach me 08121895537(Whatsapp)
 
 <!---
