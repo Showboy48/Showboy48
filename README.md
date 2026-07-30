@@ -6,7 +6,7 @@ Skills:
 • SQL
 • Power BI
 • Excel
-• Python (Learning)
+• Python
 • MySQL
 
 Projects:
