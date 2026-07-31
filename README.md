@@ -11,3 +11,4 @@ Skills:
 
 Projects:
 Global Superstore Sales Analytics
+Merchandise Planning Analytics
